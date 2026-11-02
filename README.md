@@ -8,4 +8,4 @@ Sind noch nicht klar. Zum einbringen bitte hier unter [den Issue](https://github
 
 ## Konkrete(re) Umsetzung
 
-Sind auch hier noch nicht klar, deshalb bitte auch hier unter [den Issue] (https://github.com/netzwerk-schule/schuluebergreifende-lernapp/issues/2) kommentieren, es wird aufgenommen wenn es klar genug ist und wenn alles klar ist als Datei(en) niedergeschrieben. 
+Sind auch hier noch nicht klar, deshalb bitte auch hier unter [den Issue](https://github.com/netzwerk-schule/schuluebergreifende-lernapp/issues/2) kommentieren, es wird aufgenommen wenn es klar genug ist und wenn alles klar ist als Datei(en) niedergeschrieben. 
